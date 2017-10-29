@@ -1224,7 +1224,7 @@ td span {
     line-height: 28px
 }
 .sidebar-widget {
-    overflow: hidden
+    overflow: hidden;
 }
 .error-number {
     font-size: 90px;
@@ -1604,7 +1604,7 @@ ul.quick-list li i {
     padding-top: 9px
 }
 .dashboard-widget-content .sidebar-widget {
-    width: 50%;
+    width: 20%;
     display: inline-block;
     vertical-align: top;
     background: #fff;
